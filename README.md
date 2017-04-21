@@ -1,3 +1,5 @@
+These scripts should run on KiDS data.
+
 Scripts to make plots out of KiDS catalogs.
 1. Run KidsCatCreate.py
 2. Run KidsCatIngest.py
